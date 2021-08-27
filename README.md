@@ -12,3 +12,4 @@ and
 Execute the DroolsTest.java in Eclipse
 
 Check in the intrusion Detection and how the rules will be helping for the detections
+The rules change will detect the code in network or in host
